@@ -6,15 +6,11 @@
 </p>
 <table>
   <tr>
+    <td>Название</td>
+    <td style="background-color: yellow">Описание</td>
+  </tr>
+  <tr>
     <th><a href='toxic_comm.ipynb'>toxic comments</a> - классификация токсичных комментариев.</th>
     <th style="background-color: yellow">Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</th>
-  </tr>
-  <tr>
-    <td>Calcutta</td>
-    <td style="background-color: yellow">Orange</td>
-  </tr>
-  <tr>
-    <td>Robots</td>
-    <td style="background-color: yellow">Jazz</td>
   </tr>
 </table>
