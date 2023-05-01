@@ -11,11 +11,11 @@
     <th style="background-color: yellow">В данном проекте создадим модель, определяющую, токсичен ли комментарий или нет. Оценим ее по критерию качества f1. Построим несколько моделей и выберем лучшую. Python, Spacy</th>
   </tr>
   <tr>
-    <th><a href='Toxic comments/toxic_comments.ipynb'>Определение токсичных комментариев</a></th>
-    <th style="background-color: yellow">В данном проекте создадим модель, определяющую, токсичен ли комментарий или нет. Оценим ее по критерию качества f1. Построим несколько моделей и выберем лучшую. Python, Spacy</th>
+    <th><a href='Best location/local_git.ipynb'>Определение лучшей локации для добычи нефти.</a></th>
+    <th style="background-color: yellow"></th>
   </tr>
   <tr>
-    <th><a href='Toxic comments/toxic_comments.ipynb'>Определение токсичных комментариев</a></th>
+    <th><a href='Toxic comments/toxic_comments.ipynb'>Определение стоимости автомобиля</a></th>
     <th style="background-color: yellow">В данном проекте создадим модель, определяющую, токсичен ли комментарий или нет. Оценим ее по критерию качества f1. Построим несколько моделей и выберем лучшую. Python, Spacy</th>
   </tr>
 </table>
