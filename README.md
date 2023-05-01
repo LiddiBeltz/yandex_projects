@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <th><a href='Best location/local_git.ipynb'>Определение лучшей локации для добычи нефти.</a></th>
-    <th style="background-color: yellow"></th>
+    <th style="background-color: yellow">Построим модель, которая поможет определить регион, где добыча принесёт наибольшую прибыль.</th>
   </tr>
   <tr>
     <th><a href='Toxic comments/toxic_comments.ipynb'>Определение стоимости автомобиля</a></th>
