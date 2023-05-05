@@ -51,11 +51,11 @@
 • RMSE 
 • catboost
 • LightGBM
-RandomForest
-LabelEncoder
-Lasso
-Ridge
-cross_val_score
-gridSearch
-randomizedSearch
-DecisionTree
+• RandomForest
+• LabelEncoder
+• Lasso
+• Ridge
+• cross_val_score
+• gridSearch
+• randomizedSearch
+• DecisionTree
