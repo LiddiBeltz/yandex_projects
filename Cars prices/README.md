@@ -41,3 +41,21 @@
 •	мощность
 •	пробег
 •	бренд
+
+Используемый стек инструментов 
+
+• python 
+• pandas 
+• sklearn 
+• matplotlib 
+• RMSE 
+• catboost
+• LightGBM
+RandomForest
+LabelEncoder
+Lasso
+Ridge
+cross_val_score
+gridSearch
+randomizedSearch
+DecisionTree
