@@ -32,7 +32,11 @@
 
 На этапе обучения мы рассмотрели несколько моделей:
 
-    DecisionTree
-    LogisticRegression
+- DecisionTree
+- LogisticRegression
 
 Лучший результат показала логистическая регрессия = 0.75.
+
+<b>Используемый стек инструментов</b>
+
+• python • pandas • sklearn • DecisionTree • LogisticRegression • tqdm • f1 score • nltk • TfidfVectorizer • spacy 
